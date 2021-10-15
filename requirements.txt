@@ -20,7 +20,6 @@ pathspec==0.5.9
 pydantic==1.8.2
 pypiwin32==223
 python-dateutil==2.8.2
-pywin32==302
 semantic-version==2.8.5
 six==1.14.0
 sniffio==1.2.0
